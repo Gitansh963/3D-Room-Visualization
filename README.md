@@ -16,9 +16,12 @@ The script requires the following Python libraries:
 
 You can install these libraries using pip:
 
+```bash
 pip install numpy mayavi
+```
+```bash
 pip install trimesh
-
+```
 
 ##Usage
 
