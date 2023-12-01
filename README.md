@@ -17,7 +17,11 @@ The script requires the following Python libraries:
 You can install these libraries using pip:
 
 ```bash
-pip install numpy mayavi
+pip install numpy
+```
+
+```bash
+pip install mayavi
 ```
 ```bash
 pip install trimesh
